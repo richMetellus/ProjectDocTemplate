@@ -1,0 +1,24 @@
+Software Development Plan 
+##########################
+
+Scope and Purpose 
+******************
+
+Not to be confused with the software design document, the software development 
+plan is where a team should discuss how they will create, and deliver a software 
+product.
+
+Goals:
+
+* make plan 
+  
+  * ex: should an Agile framework be used? Scrum, Kanban board, Scaled agile 
+    framework (Safe), etc..
+  * Should we adopt a mixed form of waterfall ?
+
+* Team structure
+* Team member roles and responsibilities
+* Timeline
+* Risks
+* Tools & Technologies
+* etc..

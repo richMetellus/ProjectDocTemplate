@@ -1,0 +1,8 @@
+.. _HWReqs:
+
+Electrical Hardware Requirement/Specs 
+######################################
+
+Technical Profile v1.4
+************************
+

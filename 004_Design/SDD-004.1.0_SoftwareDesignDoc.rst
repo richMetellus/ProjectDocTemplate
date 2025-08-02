@@ -1,0 +1,12 @@
+Software Design Document 
+##########################
+
+Scope & Purpose
+****************
+
+TBD
+
+System Decomposition/Architecture 
+***********************************
+
+.. include:: ../ProjInclude.rst.inc

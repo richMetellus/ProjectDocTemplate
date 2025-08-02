@@ -1,0 +1,40 @@
+Hardware Design Document 
+##########################
+
+Scope & Purpose
+****************
+
+Hardware product development starts with an idea and ends with a real product.
+
+The hardware product development lifecycle describes the processes or actions 
+that must be done over the course of real hardware product development. 
+
+The hardware product development lifecycle can be divided into seven phases: 
+
+1. Requirements or ideation→ 
+#. Design→ 
+#. Manufacturing→ 
+#. Testing→ 
+#. Distribution→ 
+#. Use and maintenance→ Disposal. 
+
+The purpose of this document is to make it easy to navigate where at Cummins,
+I would find the relevant information related to the PCM hardware as I am developing
+embedded system software for this new board.
+
+The hardware requirement is captured elsewhere :ref:`PCM Tech Profile <HWReqs>`.
+This current document focuses on the design aspect of the lifecycle.
+
+Design 
+*******
+
+Schematics
+============
+
+
+HW SW Interface 
+=================
+
+Pin mapping:
+
+.. include:: ../LNK-0_projImportantLinks.rst

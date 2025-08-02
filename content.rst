@@ -1,56 +1,52 @@
-.. _|ProjectName|index:
+.. _PCM_Index:
 
 |ProjectName| Project 
 ##########################
 
-Scoping/Overview
-********************
 
 .. toctree::
-   :caption: |ProjectName| Project Scope & Overview
-   :glob:
+   :caption: Project Scope & Overview
    :numbered:
    :maxdepth: 1
 
-   Scope/SCO-*
+   001_PlanningScoping/content
+   002_MeetingNotes/content
+   003_Requirements/content 
+   004_Design/content
+   005_HowTo/content
 
-|ProjectName| Document & Investigation
-************************************************
 
-.. toctree::
-   :caption: |ProjectName| Security
-   :glob:
-   :numbered:
-   :maxdepth: 1
+|ProjectName| - Miscellaneous
+******************************
 
-   Security/SEC-*
-
-Meeting Notes 
-*****************
-
-.. toctree::
-   :glob:
-   :numbered:
-   :maxdepth: 1
-
-   MeetingNotes/MTN-*
-
-How To
-*********
-
-.. toctree::
-   :glob:
-   :numbered:
-   :maxdepth: 1
-
-   HowTo/HowTo-*
-
+TBD 
 
 .. only:: personal 
 
-   Journal Entry
+   .. toctree::
+      :caption: Misc - Security
+      :glob:
+      :maxdepth: 1
+
+      Security/SEC-*
+
+   Journal Entries
    *****************
 
+   .. toctree::
+      :glob:
+      :maxdepth: 1
 
-Project Specific Process
-**************************
+      _Logs_Journal/JNL-MTN-*
+      
+   ToDos
+   *********
+
+   .. toctree::
+      :glob:
+      :maxdepth: 1
+
+      ToDos/TODO-*
+
+
+.. |ProjectName| replace:: PCM/Aux NextGen Communication 

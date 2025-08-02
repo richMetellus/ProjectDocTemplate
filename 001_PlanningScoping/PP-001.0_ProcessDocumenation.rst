@@ -1,0 +1,21 @@
+Process Documentation 
+#######################
+
+Scope & Purpose 
+*****************
+
+This is where I should group information related to how is the project planned.
+
+This document should capture or point to any process relevant to the project.
+
+* Resource planning.
+* Communication plan
+* Requirement captured process
+* Hardware development plan process
+* Software development plan
+* Design capture. 
+* Training Plan 
+* Test plan 
+* Quality assurance 
+* Maintenance 
+* etc...

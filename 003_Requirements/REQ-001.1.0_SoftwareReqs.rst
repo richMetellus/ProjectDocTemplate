@@ -1,0 +1,22 @@
+Software Requirements & Specs
+###############################
+
+Scope and Purpose 
+******************
+
+Since changes are thrown out late in the design during meetings, the requirements 
+are given either vocally or through emails. It's hard to keep hundred of emails 
+or remember what was said. 
+This document will serve a reference guide to where I consolidate the various 
+software design requirements because the company does not have or use a requirement 
+capture tool, or an enterprise project management software, this is my method 
+to keep my sanity.
+
+**Goals & Rules**
+
+* If there are requirements that exist in pdf, excel, word, etc.. and are on sharepoint, 
+  embedded them here. 
+
+* if the requirements are made known to me through emails or word of mouth, then 
+  capture it in this notebook and classify it accordingly. Use the sphinx-needs 
+  extension to group the requirements if possible.
